@@ -19,12 +19,12 @@ import { Link } from "react-router-dom";
 
 import churchLogo from "../assets/images/church-logo.png";
 import TGCH33 from "../assets/images/gallery/TGCH33.jpg";
-import image from "../assets/images/Gallery/image.png";
-import w from "../assets/images/Gallery/w.jpg";
-import m from "../assets/images/Gallery/m.jpg";
-import wor1 from "../assets/images/Gallery/wor1.jpg";
-import wor3 from "../assets/images/Gallery/wor3.jpg";
-import heroBg from "../assets/images/Gallery/gallery8.jpg";
+import image from "../assets/images/gallery/image.png";
+import w from "../assets/images/gallery/w.jpg";
+import m from "../assets/images/gallery/m.jpg";
+import wor1 from "../assets/images/gallery/wor1.jpg";
+import wor3 from "../assets/images/gallery/wor3.jpg";
+import heroBg from "../assets/images/gallery/gallery8.jpg";
 
 // ============================================================
 // ANIMATION PRESETS

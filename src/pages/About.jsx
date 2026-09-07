@@ -14,7 +14,7 @@ import {
 import { Link } from "react-router-dom";
 
 // 👇 IMPORT YOUR IMAGE
-import bgImage from "../assets/images/Gallery/bg.jpg";
+import bgImage from "../assets/images/gallery/bg.jpg";
 
 const fadeUp = {
   hidden: {
